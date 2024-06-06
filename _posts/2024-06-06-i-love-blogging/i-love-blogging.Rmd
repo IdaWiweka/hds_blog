@@ -3,7 +3,7 @@ title: "I Love Blogging"
 description: 
   Never do blogging before
 author:
-  - name: Ida Made Hrisikesa Wiweka
+  - name: Ida Made Hrisikesa Wiweka 
     url: https://example.com/norajones
 date: 2024-06-06
 output:
