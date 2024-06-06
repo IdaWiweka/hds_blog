@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2024-06-06T16:17:47+10:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2024-06-06-i-love-blogging/",
+    "title": "I Love Blogging",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2024-06-06",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2024-06-06T16:47:41+10:00",
+    "input_file": "i-love-blogging.knit.md"
   }
 ]
